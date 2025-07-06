@@ -1,2 +1,27 @@
-# cloudflare-mainland-china-optimized-ip
-氩云 Cloudflare 优选IP 是由 ArCloud Opensource 维护的专注于中国大陆与全球优化的 Cloudflare 优选IP服务。
+# 氩云 Cloudflare 优选IP
+
+**氩云 Cloudflare 优选IP** 是由 ArCloud Opensource 维护的专注于中国大陆与全球优化的 Cloudflare 优选IP服务。
+
+## 核心优势
+- 专为中国大陆网络环境优化  
+- 覆盖全球优质 Cloudflare 节点  
+- 动态路由智能分配
+
+## 获取专属优选IP
+### Q: 如何获得我的专属优选IP？
+**A：提交 Issue 申请**  
+请按以下格式在 GitHub 提交 Issue 请求：
+```markdown
+### 申请信息
+- **网站地址**：
+- **网站用途**：
+- **网站访客量**：
+- **网站质量**（文章/资源质量说明）：
+- **运作方式**：
+- **是否含商业性质**：
+- **Telegram 账号**：
+- **NodeSeek 账号**（需 Lv.1 以上）：
+### Q：该项目是否收费？
+A：该项目完全免费，为公益项目。
+### Q：需要多久才能审核完？
+A：我们的志愿者空闲时间较短，审核时间不固定，您可加入我们一同维护该项目，详情请咨询QQ：2219683739
